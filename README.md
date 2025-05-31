@@ -13,7 +13,7 @@ The various kinds of properties that exist w.r.t. customer preferences.
 Adjustments in the existing properties to make it more customer-oriented.
 What are the most popular localities and properties in New York currently?
 How to get unpopular properties more traction? and so on...
-Note: These points are just to give you an initial understanding of how to proceed with the analysis and the kind of questions you need to ask. In addition to this, you would need to further understand the data (attached below in this page) and analyse important insights that you feel are required for the audiences mentioned for each of the two presentations.
+Note: In addition to this, you would need to further understand the data and analyse important insights that you feel are required for the audiences mentioned for each of the two presentations.
 
 # Objective:
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, you need to give two presentations to the following groups.
